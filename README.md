@@ -1,0 +1,2 @@
+# tsoha
+Tietokantasovellus - aineopin harjoitustyö
